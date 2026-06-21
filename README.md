@@ -87,7 +87,7 @@ A curated collection of **aesthetic dev tools, UI libraries, creative coding fra
 ## 🛠️ Dev Tools for Flow
 - **AppFlowy** — open-source Notion  
   https://github.com/AppFlowy-IO/appflowy  
-- **ax** — local AI coding-agent history, tool calls, skills, and spend<br>
+- **ax** — local AI coding-agent history, tool calls, skills, and spend  
   https://github.com/Necmttn/ax
 - **Penpot** — open-source Figma  
   https://github.com/penpot/penpot  
